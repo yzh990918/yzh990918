@@ -20,7 +20,7 @@ Here is a description [website](https://me.yangxiansheng.top/) about be
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Prettier](https://img.shields.io/badge/-Prettier-%23142027?style=for-the-badge&logo=prettier)
 
-![](https://github-readme-stats.vercel.app/api?username=251205668&count_private=true&show_icons=true&theme=gruvbox)
+![](https://github-readme-stats.vercel.app/api?username=251205668&count_private=true&show_icons=true&theme=radical)
 
 ###  🌱 Here are some projects i'm currently wroking
 
