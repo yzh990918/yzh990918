@@ -6,6 +6,12 @@ Here is a description [website](https://me.yangxiansheng.top/) about be
 
 🔭 I’m currently stay in school
 
+  _   _      _ _    __        __         _     _ 
+ | | | | ___| | | __\ \      / /__  _ __| | __| |
+ | |_| |/ _ \ | |/ _ \ \ /\ / / _ \| '__| |/ _` |
+ | |别|  __/ |忘| (_) \ V  V / (_) | |点| | (_|赞    
+ |_| |_|\___|_|_|\___/ \_/\_/ \___/|_|  |_|\__,_|
+
 ### Skills preview
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
