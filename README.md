@@ -6,11 +6,13 @@ Here is a description [website](https://me.yangxiansheng.top/) about be
 
 🔭 I’m currently stay in school
 
+```
   _   _      _ _    __        __         _     _ 
  | | | | ___| | | __\ \      / /__  _ __| | __| |
  | |_| |/ _ \ | |/ _ \ \ /\ / / _ \| '__| |/ _` |
  | |别|  __/ |忘| (_) \ V  V / (_) | |点| | (_|赞    
  |_| |_|\___|_|_|\___/ \_/\_/ \___/|_|  |_|\__,_|
+```
 
 ### Skills preview
 
