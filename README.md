@@ -43,4 +43,7 @@ A book town provides students with the opportunity to read and enjoy music,here 
 ![](https://image.yangxiansheng.top/img/20200916174118.png?imglist)
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
