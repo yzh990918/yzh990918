@@ -67,7 +67,9 @@
 </table>
 
 <h3>Open source work stats</h3>
+
 ![](https://github-readme-stats.vercel.app/api?username=251205668&count_private=true&show_icons=true&theme=dracula)
+
 <h3>📫 Reach me</h3>
 
 - 💬 Ask me about anything.
