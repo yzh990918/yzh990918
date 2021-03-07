@@ -17,6 +17,7 @@
 
 
 <h3>My open source projects</h3>
+
 <table>
   <thead align="center">
     <tr border: none;>
