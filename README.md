@@ -74,7 +74,7 @@
 <h3>📫 Reach me</h3>
 
 - 💬 Ask me about anything.
-- 📧 [Email](y251205668@sina.com)
+- 📧 Email-[y251205668@sina.com](y251205668@sina.com)
 - 📖 [Juejin](https://juejin.cn/user/1855631359227079)
 - ☁️ [Blog](https://251205668.github.io/)
 
