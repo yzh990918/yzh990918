@@ -45,12 +45,19 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/251205668/student-admin-template?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/251205668/student-admin-template?style=flat-square&labelColor=343b41"/></td>
     </tr>
-	  <tr>
+    <tr>
       <td><a href="https://github.com/251205668/Magic_Shop"><b>Magic_Shop</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/251205668/Magic_Shop?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/251205668/Magic_Shop?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/251205668/Magic_Shop?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/251205668/Magic_Shop?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/251205668/koa-template"><b>Koa-template</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/251205668/koa-template?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/251205668/koa-template?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/251205668/koa-template?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/251205668/koa-template?style=flat-square&labelColor=343b41"/></td>
     </tr>
       <tr>
       <td><a href="https://github.com/251205668/mpvueBookStore"><b>mpvueBookStore</b></a></td>
