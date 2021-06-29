@@ -2,7 +2,7 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p>Welcome to my page! I am a front-end development engineer from Nanchang. I love life, have a cheerful personality, and like to study the vast knowledge universe.</p>
+<p>Welcome to my page! I am a front-end development engineer from Nanchang.I am currently working in ZuoYeBang Company. Welcome to contact me and communicate with me.</p>
 
 <h3>Things I code with</h3>
 
@@ -90,6 +90,7 @@
 <h3>📫 Reach me</h3>
 
 - 💬 Ask me about anything.
+- 🎃 Focus on Typescript、Vue3、Vite now.
 - 📧 Email-[y251205668@sina.com](y251205668@sina.com)
 - 📖 [Juejin](https://juejin.cn/user/1855631359227079)
 - ☁️ [Blog](https://251205668.github.io/)
