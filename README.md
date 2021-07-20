@@ -93,7 +93,8 @@
 - 🎃 Focus on Typescript、Vue3、Vite now.
 - 📧 Email-[y251205668@sina.com](y251205668@sina.com)
 - 📖 [Juejin](https://juejin.cn/user/1855631359227079)
-- ☁️ [Blog](https://251205668.github.io/)
+- ☁️ [Blog](http://blog-251205668.vercel.app/)
+- 🎟 [FEE](https://vercel-blogs.vercel.app/)
 
 <!--START_SECTION:waka-->
 ```text
