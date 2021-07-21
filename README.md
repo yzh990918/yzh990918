@@ -85,7 +85,22 @@
 
 <h3>Open source work stats</h3>
 
-![](https://github-readme-stats.vercel.app/api?username=251205668&count_private=true&show_icons=true&theme=dracula)
+<p align="left">
+
+<img width="500" src="https://metrics.lecoq.io/251205668" alt="Github Metrics">
+  
+  <br>
+  <br>
+
+<img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=251205668" alt="Github Streak Stats">
+<br>
+<br>
+<img width="500" src="https://github-readme-stats.vercel.app/api?username=251205668&count_private=true&show_icons=true&theme=dracula" />
+<br>
+<br>
+<img width="500"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=251205668&layout=compact&theme=dracula&langs_count=8" />
+</p>
+
 
 <h3>📫 Reach me</h3>
 
@@ -95,9 +110,3 @@
 - 📖 [Juejin](https://juejin.cn/user/1855631359227079)
 - ☁️ [Blog](http://blog-251205668.vercel.app/)
 - 🎟 [FEE](https://vercel-blogs.vercel.app/)
-
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
