@@ -104,9 +104,9 @@
 
 <h3>📫 Reach me</h3>
 
-- 💬 Ask me about anything.
+- 💬 The best way to reach me is sending me an email.
 - 🎃 Focus on Typescript、Vue3、Vite now.
-- 📧 Email-yangzhihao990918@gmail.com
-- 📖 [Juejin](https://juejin.cn/user/1855631359227079)
-- ☁️ [Blog](http://blog-251205668.vercel.app/)
-- 🎟 [FEE](https://vercel-blogs.vercel.app/)
+- 📧 Email：yangzhihao990918@gmail.com
+- 📖 Juejin：[https://juejin.cn/user/185563135922707](https://juejin.cn/user/1855631359227079)
+- ☁️ Blog：[http://blog-251205668.vercel.app/](http://blog-251205668.vercel.app/)
+- 🎟 Awesome：[https://vercel-blogs.vercel.app/](https://vercel-blogs.vercel.app/)
