@@ -96,9 +96,6 @@
 <br>
 <br>
 <img width="500" src="https://github-readme-stats.vercel.app/api?username=251205668&count_private=true&show_icons=true&theme=dracula" />
-<br>
-<br>
-<img width="500"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=251205668&layout=compact&theme=dracula&langs_count=8" />
 </p>
 
 
