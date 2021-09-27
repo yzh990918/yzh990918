@@ -86,13 +86,13 @@
 <h3>Open source work stats</h3>
 
 <p align="left">
-
-<img width="500" src="https://metrics.lecoq.io/251205668" alt="Github Metrics">
+  
+<img width="500" src="https://github-profile-trophy.vercel.app/?username=251205668&theme=onestar" />
   
   <br>
   <br>
 
-<img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=251205668" alt="Github Streak Stats">
+<img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=251205668" alt="Github Streak Stats" />
 <br>
 <br>
 <img width="500" src="https://github-readme-stats.vercel.app/api?username=251205668&count_private=true&show_icons=true&theme=dracula" />
