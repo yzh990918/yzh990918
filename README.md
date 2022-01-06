@@ -2,7 +2,7 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p>Welcome to my page! I am a front-end development engineer from Nanchang.I am currently working in ZuoYeBang Company. Welcome to contact me and communicate with me.</p>
+<p>Welcome to my page! I am a front-end development engineer from Nanchang. Welcome to contact me and communicate with me.</p>
 
 <h3>Things I code with</h3>
 
