@@ -26,7 +26,6 @@
 
 [![mohen](https://github-profile-trophy.vercel.app/?username=yzh990918&theme=discord&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img src=""/>
 
 ## 🧤 How to reach me
 <a href="yangzhihao990918@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp; <a href="https://twitter.com/zhihaoy18640576"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> &nbsp; <a href="https://github.com/yzh990918"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> &nbsp; <a href="https://codepen.io/251205668"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>&nbsp; <a href="https://leetcode.cn/u/nu-li-zhong-de-yang-xian-sheng/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
