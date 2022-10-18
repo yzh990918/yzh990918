@@ -1,6 +1,18 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<img align='right' src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400">
-<p>Welcome to my page! My Name is Evan Yang,also you can call me mohen.I am a front-end development engineer from Nanchang. I love open source very much. I like inspired projects. I like to share my feelings and life through projects. </p>
+
+Hey, I am Evan Yang, a front-end developer from China.
+
+Core team member of [OnuUI](https://github.com/onu-ui/onu-ui), [Vbs-Plus](https://github.com/vbs-plus).<br>
+Creator of [magic-cli](https://github.com/vbs-plus/magic-cli), [za-zi](https://github.com/vbs-plus/zi), [student-admin-template](https://github.com/yzh990918/Student-admin-template) and others.<br>
+Contributor of [vite-plugin-vue2](https://github.com/underfin/vite-plugin-vue2), [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin).
+ 
+Currently I am focusing on front-end technologies that help people design complex applications to be simpler to use, enabling functionality while optimizing the user experience.
+
+I love to chase ideas and I spend a lot of time using some great product applications, learning from their successes and using them to inspire my creativity.
+
+If you like my works, you can add [star](https://github.com/yzh990918?tab=repositories) to my projects.
+
+📖  [Website](https://evan-yang.netlify.app/)  |  ✉️  [Issues](https://github.com/yzh990918/yzh990918/issues)
 
 <h3>Things I code with</h3>
 
@@ -18,9 +30,6 @@
 ![Nest](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 
-![mohen's github stats](https://github-readme-stats.vercel.app/api?username=yzh990918&show_icons=true&theme=dracula&count_private=true&show_icons=true)
-
-![mohen's contribution graph](https://activity-graph.herokuapp.com/graph?username=yzh990918&theme=dracula)
 
 [![mohen](https://github-profile-trophy.vercel.app/?username=yzh990918&theme=discord&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
