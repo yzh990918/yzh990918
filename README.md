@@ -5,7 +5,7 @@ Hey, I am Evan Yang, a front-end developer from China.
 
 - Core team member of [OnuUI](https://github.com/onu-ui/onu-ui), [Vbs-Plus](https://github.com/vbs-plus).<br>
 - Creator of [magic-cli](https://github.com/vbs-plus/magic-cli), [za-zi](https://github.com/vbs-plus/zi), [student-admin-template](https://github.com/yzh990918/Student-admin-template) and others.<br>
-- Contributor of [vite-plugin-vue2](https://github.com/underfin/vite-plugin-vue2), [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) and more.
+- Contributor of [vite-plugin-vue2](https://github.com/underfin/vite-plugin-vue2), [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin), [vitesse-nuxt3](https://github.com/antfu/vitesse-nuxt3) and more.
  
 Currently I am focusing on front-end technologies that help people design complex applications to be simpler to use, enabling functionality while optimizing the user experience.
 
