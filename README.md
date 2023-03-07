@@ -4,8 +4,8 @@ Hey, I am Evan Yang, a front-end developer from China.
 
 
 - Core team member of [OnuUI](https://github.com/onu-ui/onu-ui), [Vbs-Plus](https://github.com/vbs-plus).<br>
-- Creator of [magic-cli](https://github.com/vbs-plus/magic-cli), [za-zi](https://github.com/vbs-plus/zi), [student-admin-template](https://github.com/yzh990918/Student-admin-template) and others.<br>
-- Contributor of [UnoCSS](https://github.com/unocss/unocss), [vite-plugin-vue2](https://github.com/underfin/vite-plugin-vue2), [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin), [vitesse-nuxt3](https://github.com/antfu/vitesse-nuxt3) and more.
+- Creator of [magic-cli](https://github.com/vbs-plus/magic-cli), [za-zi](https://github.com/vbs-plus/zi), [student-admin-template](https://github.com/yzh990918/Student-admin-template), [json-tsc](https://github.com/vbs-plus/json-tsc) and others.<br>
+- Contributor of [UnoCSS](https://github.com/unocss/unocss), [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo), [vite-plugin-vue2](https://github.com/underfin/vite-plugin-vue2), [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin), [vitesse-nuxt3](https://github.com/antfu/vitesse-nuxt3) and more.
  
 Currently I am focusing on front-end technologies that help people design complex applications to be simpler to use, enabling functionality while optimizing the user experience.
 
@@ -13,7 +13,7 @@ I love to chase ideas and I spend a lot of time using some great product applica
 
 If you like my works, you can add [star](https://github.com/yzh990918?tab=repositories) to my projects.
 
-📖  [Website](https://evan-yang.netlify.app/)  |  ✉️  [Issues](https://github.com/yzh990918/yzh990918/issues)
+🎡  [Website](https://evan-yang.netlify.app/)  |  🌈  [Posts](https://evan-yang.netlify.app/blog) | 🦄  [Projects](https://evan-yang.netlify.app/projects)
 
 <h3>Things I code with</h3>
 
