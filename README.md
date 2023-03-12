@@ -13,7 +13,7 @@ I love to chase ideas and I spend a lot of time using some great product applica
 
 If you like my works, you can add [star](https://github.com/yzh990918?tab=repositories) to my projects.
 
-🎡  [Website](https://evan-yang.netlify.app/)  |  🌈  [Posts](https://evan-yang.netlify.app/blog) | 🦄  [Projects](https://evan-yang.netlify.app/projects)
+🎡  [Website](https://evan-yang.top/)  |  🌈  [Posts](https://evan-yang.top/blog) | 🦄  [Projects](https://evan-yang.top/projects)
 
 <h3>Things I code with</h3>
 
