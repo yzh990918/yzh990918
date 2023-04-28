@@ -3,7 +3,7 @@
 Hey, I am Evan Yang, a front-end developer from China.
 
 
-- Core team member of [anse-app](https://github.com/anse-app), [OnuUI](https://github.com/onu-ui/onu-ui).<br>
+- Core team member of [Anse](https://github.com/anse-app), [OnuUI](https://github.com/onu-ui/onu-ui).<br>
 - Creator of [magic-cli](https://github.com/vbs-plus/magic-cli), [za-zi](https://github.com/vbs-plus/zi), [student-admin-template](https://github.com/yzh990918/Student-admin-template), [json-tsc](https://github.com/vbs-plus/json-tsc) and others.<br>
 - Contributor of [UnoCSS](https://github.com/unocss/unocss), [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo), [vite-plugin-vue2](https://github.com/underfin/vite-plugin-vue2), [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin), [vitesse-nuxt3](https://github.com/antfu/vitesse-nuxt3) and more.
  
