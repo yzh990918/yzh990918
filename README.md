@@ -5,7 +5,7 @@ Hey, I am Evan Yang, a front-end developer from China.
 
 - Core team member of [Anse](https://github.com/anse-app), [OnuUI](https://github.com/onu-ui/onu-ui).<br>
 - Creator of [magic-cli](https://github.com/vbs-plus/magic-cli), [za-zi](https://github.com/vbs-plus/zi),  [json-tsc](https://github.com/vbs-plus/json-tsc) and others.<br>
-- Contributor of  [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo)，[UnoCSS](https://github.com/unocss/unocss), [Vitest](https://github.com/vitest-dev/vitest), [Vitesse-nuxt3](https://github.com/antfu/vitesse-nuxt3) and more.
+- Contributor of [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo), [UnoCSS](https://github.com/unocss/unocss), [Vitest](https://github.com/vitest-dev/vitest), [Vitesse-nuxt3](https://github.com/antfu/vitesse-nuxt3) and more.
  
 Currently I am focusing on front-end technologies that help people design complex applications to be simpler to use, enabling functionality while optimizing the user experience.
 
