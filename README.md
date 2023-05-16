@@ -33,7 +33,7 @@ If you like my works, you can add [star](https://github.com/yzh990918?tab=reposi
 
 
 
-[![mohen](https://github-profile-trophy.vercel.app/?username=yzh990918&theme=discord&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+![github-trophies](https://stats.hyochan.dev/api/github-trophies?login=yzh990918)
 
 
 ## 🧤 How to reach me
