@@ -13,7 +13,7 @@ Currently I am focusing on front-end technologies that help people design comple
 
 I love to chase ideas and I spend a lot of time using some great product applications, learning from their successes and using them to inspire my creativity.
 
-If you like my works, you can add [star](https://github.com/yzh990918?tab=repositories) to my projects.
+If you like my works, you can add [star](https://github.com/yzh990918?tab=repositories) to my projects, or you can buy me a 🍉 / 🍟 / 🍦 at 💰 [afdian.net](https://afdian.net/a/evan-yang).
 
 🎡  [Website](https://evan-yang.top/)  |  🌈  [Posts](https://evan-yang.top/blog) | 🦄  [Projects](https://evan-yang.top/projects)
 
