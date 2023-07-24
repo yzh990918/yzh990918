@@ -5,15 +5,13 @@
 Hey, I am Evan Yang, a front-end developer from China.
 
 
-- Core team member of [Anse](https://github.com/anse-app), [OnuUI](https://github.com/onu-ui/onu-ui).<br>
-- Creator of [magic-cli](https://github.com/vbs-plus/magic-cli), [za-zi](https://github.com/vbs-plus/zi),  [json-tsc](https://github.com/vbs-plus/json-tsc) and others.<br>
-- Contributor of [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo), [UnoCSS](https://github.com/unocss/unocss), [Vitest](https://github.com/vitest-dev/vitest), [Vitesse-nuxt3](https://github.com/antfu/vitesse-nuxt3) and more.
+- 💎 Core team member of [Anse](https://github.com/anse-app), [OnuUI](https://github.com/onu-ui/onu-ui).<br>
+- 🔥 Creator of [magic-cli](https://github.com/vbs-plus/magic-cli), [za-zi](https://github.com/vbs-plus/zi),  [json-tsc](https://github.com/vbs-plus/json-tsc) and others.<br>
+- ☘️ Contributor of [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo), [UnoCSS](https://github.com/unocss/unocss), [Vitest](https://github.com/vitest-dev/vitest), [Vitesse-nuxt3](https://github.com/antfu/vitesse-nuxt3) and more.
  
-Currently I am focusing on front-end technologies that help people design complex applications to be simpler to use, enabling functionality while optimizing the user experience.
+Currently, I am focusing on front-end technologies that help people design complex applications to be simpler to use, enabling functionality while optimizing the user experience.
 
-I love to chase ideas and I spend a lot of time using some great product applications, learning from their successes and using them to inspire my creativity.
-
-If you like my works, you can add [star](https://github.com/yzh990918?tab=repositories) to my projects, or you can buy me a 🍉 / 🍟 / 🍦 at 💰 [afdian.net](https://afdian.net/a/evan-yang).
+I love to chase ideas and spend a lot of time using great product applications, learning from their successes, and using them to inspire my creativity.
 
 🎡  [Website](https://evan-yang.top/)  |  🌈  [Posts](https://evan-yang.top/blog) | 🦄  [Projects](https://evan-yang.top/projects)
 
@@ -38,7 +36,7 @@ If you like my works, you can add [star](https://github.com/yzh990918?tab=reposi
 
 ## 🧤 How to reach me
 
-<a href="https://evan-yang.top/"><img src="https://img.shields.io/badge/website-353b48?style=for-the-badge&logo=About.me&logoColor=white"></a> &nbsp;<a href="http://goto:yangzhihao990918@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp; <a href="https://twitter.com/zhihaoy18640576"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> &nbsp; <a href="https://codepen.io/251205668"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>&nbsp; <a href="https://www.youtube.com/@user-ko6ex1jx3y/featured"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>&nbsp;
+<a href="https://afdian.net/a/evan-yang"><img src="https://img.shields.io/badge/爱发电-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA"></a> &nbsp;<a href="https://evan-yang.top/"><img src="https://img.shields.io/badge/EvanYang-353b48?style=for-the-badge&logo=About.me&logoColor=white"></a> &nbsp;<a href="http://goto:yangzhihao990918@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp; <a href="https://twitter.com/zhihaoy18640576"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> &nbsp; <a href="https://codepen.io/251205668"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>&nbsp; <a href="https://www.youtube.com/@user-ko6ex1jx3y/featured"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>&nbsp;
 
 ## 🥰 Page Views
 ![](https://profile-counter.glitch.me/yzh990918/count.svg)
