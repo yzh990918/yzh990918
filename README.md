@@ -31,9 +31,6 @@ I love to chase ideas and spend a lot of time using great product applications, 
 
 
 
-![github-trophies](https://stats.hyochan.dev/api/github-trophies?login=yzh990918)
-
-
 ## 🧤 How to reach me
 
 <a href="https://afdian.net/a/evan-yang"><img src="https://img.shields.io/badge/爱发电-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA"></a> &nbsp;<a href="https://evan-yang.top/"><img src="https://img.shields.io/badge/EvanYang-353b48?style=for-the-badge&logo=About.me&logoColor=white"></a> &nbsp;<a href="http://goto:yangzhihao990918@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp; <a href="https://twitter.com/zhihaoy18640576"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> &nbsp; <a href="https://codepen.io/251205668"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>&nbsp; <a href="https://www.youtube.com/@user-ko6ex1jx3y/featured"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>&nbsp;
